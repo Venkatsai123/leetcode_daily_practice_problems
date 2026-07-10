@@ -1,0 +1,2 @@
+def largestAltitude(gain):
+    pass
